@@ -1,3 +1,4 @@
+#Test Commit
 # RIT Routes
 ## Project Statement
 ### We at Tiger Consulting, came together to make an application to help the RIT community during these troubling times. This   application is called RIT Routes. The goal of this project is to create a better functioning version of the RIT Maps, with some additional features to help with safety, navigation, and convenience. Should this venture be successful, RIT students and faculty will be able to choose different routes based on both efficiency and traffic.
